@@ -1,0 +1,15 @@
+Code Exercise
+
+ Create an API with the following functionality:
+
+Get a list of items
+Get a single item
+Save Items
+Update Items
+Create a UI
+
+
+ Bonus:
+
+C# backend
+Angular 1 frontend
